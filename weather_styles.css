@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif, sans-serif,rgb(235, 222, 222);
+    font-family: 'Times New Roman', Times, serif, sans-serif,rgb(235, 222, 222); /* font as per choice */
       /* background-color: #f0f0f0; */
   
     background-image: url("https://media.istockphoto.com/id/1257951336/photo/transparent-umbrella-under-rain-against-water-drops-splash-background-rainy-weather-concept.jpg?s=612x612&w=0&k=20&c=lNvbIw1wReb-owe7_rMgW8lZz1zElqs5BOY1AZhyRXs=");
@@ -16,9 +16,9 @@ body {
     margin: 0 auto;
     text-align: center;
     padding: 20px;
-    background-color: rgba(29, 125, 169, 0.688); 
+    background-color: rgba(29, 125, 169, 0.688); /* Setting the background color to be transparent */
     border-radius: 10px;
-    box-shadow: 0 0 10px rgb(8, 14, 22); 
+    box-shadow: 0 0 10px rgb(8, 14, 22); /* Adjusting the alpha value for the box shadow transparency */
     margin-top: 230px;
 }
 
